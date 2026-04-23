@@ -1,5 +1,8 @@
 properties([
-    pipelineTriggers([githubPush()])
+    pipelineTriggers([
+        githubPush(),
+        pollSCM('* * * * *')
+    ])
 ])
 
 node {
