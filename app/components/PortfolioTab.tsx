@@ -12,7 +12,7 @@ export default function PortfolioTab() {
       </div>
       <p className="text-gray-600 leading-relaxed mb-6">
         Building clean, fast web applications with modern tools. Passionate
-        about great user experiences and simple, maintainable code.
+        about great user experiences and simple, maintainable code. meee
       </p>
       <div className="mb-6">
         <h3 className="text-sm font-semibold text-gray-700 uppercase tracking-wide mb-3">
